@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @StephenM-Data
-- 👀 I’m interested in Data Analytics, Data Viz, Real-time Data, Grafana, SQL, Flux, FlinkSQL, Apache Kafka, D3
-- 🌱 I’m currently learning Python, JS, D3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm Stephen
 
-<!---
-StephenM-Data/StephenM-Data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data analyst and analytics engineer focused on metrics that matter, and the engineering that keeps them trustworthy.
+
+## How I work
+
+I like joining a team early, working out which questions decision-makers actually need answered, and building the foundation so everyone trusts the answers. I work comfortably across the modern data stack and pick up new tools quickly.
